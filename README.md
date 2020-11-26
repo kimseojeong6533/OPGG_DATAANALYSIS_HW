@@ -1,2 +1,2 @@
 # OPGG_DATAANALYSIS_HW
-OPGG 사전과제1 
+OPGG 사전과제1,2 
